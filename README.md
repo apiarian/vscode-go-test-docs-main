@@ -7,7 +7,7 @@ documentation experiments.
 This package imports three others:
 1. `vscode-go-test-docs-gopathonly` only exists in the `$GOPATH`.
 2. `vscode-go-test-docs-vendoroverride` exists in both the `$GOPATH` and the `vendor/` directory.
-3. `vscode-go-test-docs-vendoronly` only exists in the `vendor/` directory.
+3. `vscode-go-test-docs-vendoronly` only exists in the `vendor/` directory. This repository does not exist in github.
 
 ## Setup
 
